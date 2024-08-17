@@ -23,27 +23,25 @@ CCTV14,http://39.135.15.93:6610/PLTV/88888888/224/3221225727/1/index.m3u8?fmt=ts
 CCTV15,http://39.135.15.93:6610/PLTV/88888888/224/3221225749/1/index.m3u8?fmt=ts2hls
 CCTV17,http://39.135.15.93:6610/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls
 
-CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?m3u8_level=2
-CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
-CHC高清电影,http://183.92.4.163:4000/udp/228.0.0.233:6108
+CHC高清电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
+CHC高清电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8
 
 
 
-CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
-CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
-CHC家庭影院,https://epg.pw/stream/085a38ada3bf036f74dc58987291160253095044bdff40a127b5578345656db0.ctv
 CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
-CHC家庭影院,http://115.60.241.249:2000/rtp/225.1.4.208:1261
-CHC家庭影院,http://42.48.17.188:9901/tsfile/live/37232_1.m3u8
+CHC家庭影院,http://video.qd.sdu.edu.cn/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
+CHC家庭影院,https://test.zapi.us.kg/?id=chc-jtyy
 
 
 
 
-CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?m3u8_level=2
-CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
-CHC动作电影,https://epg.pw/stream/2f2e29b8759a2458730dc1f3686024472691952a50e787fe075944d0cb17f36e.ctv
-CHC动作电影,http://e2.woc.iiiya.cn:8888/rtp/239.61.3.16:9616
+
+
 CHC动作电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
+CHC动作电影,http://115.60.241.249:2000/rtp/225.1.4.208:1261
+CHC动作电影,http://video.qd.sdu.edu.cn/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
+CHC动作电影,https://epg.pw/stream/a9e49885cb3e631c34781283c45119db7bc5431c547d78b748880c9f3952fc04.m3u8
+CHC动作电影,https://test.zapi.us.kg/?id=chc-dzdy
 
 
 
