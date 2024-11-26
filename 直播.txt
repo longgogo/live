@@ -2,7 +2,6 @@
 	{"name":"歌曲MV","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/longgogo/live/refs/heads/main/mtv.txt&&&https://api.likepoems.com/img/mc"},
 	{"name":"野火直播","url":"https://pastebin.com/raw/tuXBQs7U&&&https://api.likepoems.com/img/mc"},
 	{"name":"扇明/直播IPv6","url":"https://m3u.ibert.me/txt/fmml_ipv6.txt&&&https://api.likepoems.com/img/mc"},
-	{"name":"岳灿-Live IPTV","url":"https://m3u.ibert.me/txt/ycl_iptv.txt&&&https://api.likepoems.com/img/mc"},
 	{"name":"YanG-1989 聚会","url":"https://m3u.ibert.me/txt/y_g.txt&&&https://api.likepoems.com/img/mc"},
 	{"name":"多多直播","url":"https://bitbucket.org/xduo/duoapi/raw/master/v.txt&&&https://api.likepoems.com/img/mc"},
 	{"name":"唐三直播","url":"http://home.jundie.top:81/Cat/tv/live.txt&&&https://api.likepoems.com/img/mc"},
