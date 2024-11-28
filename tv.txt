@@ -23,30 +23,16 @@ CCTV14,http://39.135.15.93:6610/PLTV/88888888/224/3221225727/1/index.m3u8?fmt=ts
 CCTV15,http://39.135.15.93:6610/PLTV/88888888/224/3221225749/1/index.m3u8?fmt=ts2hls
 CCTV17,http://39.135.15.93:6610/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls
 
-CHC高清电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8
-CHC高清电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
-CHC高清电影,http://118.81.197.85:8085/rtp/226.0.2.93:8004
-CHC高清电影,http://183.188.229.189:6001/rtp/226.0.2.93:8004
-CHC高清电影,http://42.237.181.159:4000/rtp/225.1.4.207:1260
-CHC高清电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
-CHC高清电影,http://pi.0472.org/tv/cbn.php?id=chcgqdyHD
+CHC高清电影,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
+CHC高清电影,https://stream1.freetv.fun/fb1e407995dc9699c2f42ace7d757b89a8464140d0e6b1a16f384d63e50bb43d.m3u8
+CHC高清电影,https://epg.pw/stream/3b471ad5f1aa57bac299045428922c098b2f6204a72ef8428b398db14eaa5c96.m3u8
 
+CHC动作电影,	http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=
+CHC动作电影,	https://stream1.freetv.fun/d55f8444a0f39b81a169cd645abd85e822619c1c77a72ad0874f252b51ff769d.m3u8
+CHC动作电影,https://epg.pw/stream/a9e49885cb3e631c34781283c45119db7bc5431c547d78b748880c9f3952fc04.m3u8
 
-CHC动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000008284/1.m3u8
-CHC动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/6316377948248689070/1.m3u8
-CHC动作电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010074/1.m3u8
-CHC动作电影,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8
-CHC动作电影,https://epg.pw/stream/085a38ada3bf036f74dc58987291160253095044bdff40a127b5578345656db0.ctv
-CHC动作电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
-CHC动作电影,http://218.76.32.193:9901/tsfile/live/1020_1.m3u8
-
-
-CHC家庭影院,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000018653/1.m3u8
-CHC家庭影院,http://[2409:8087:5e00:24::1e]:6060/000000001000/8103864434730665389/1.m3u8
-CHC家庭影院,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010003/1.m3u8
-CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1037_1.m3u8
-CHC家庭影院,http://115.60.241.249:2000/rtp/225.1.4.208:1261
-CHC家庭影院,http://1b6467f415.iok.la:9931/tsfile/live/1047_1.m3u8
+CHC家庭影院,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=
+CHC家庭影院,https://stream1.freetv.fun/d208460595c85d5284ac26444f6618991214d285792b58fa237710f2269fc489.m3u8
 
 
 黑莓电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000019624/1.m3u8
