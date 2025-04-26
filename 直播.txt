@@ -1,5 +1,5 @@
 [
-{"name":"歌曲MV","url":"https://ghfast.top/https://raw.githubusercontent.com/longgogo/live/refs/heads/main/mtv.txt       &&&https://api.likepoems.com/img/mc"},
+{"name":"歌曲MV","url":"https://5403.kstore.space/Live/MTV.txt       &&&https://api.likepoems.com/img/mc"},
 {"name":"扇明/直播IPv6","url":"https://m3u.ibert.me/txt/fmml_ipv6.txt       &&&https://api.likepoems.com/img/mc"},
 {"name":"YanG-1989 聚会","url":"https://m3u.ibert.me/txt/y_g.txt        &&&https://api.likepoems.com/img/mc"},
 {"name":"多多直播","url":"https://bitbucket.org/xduo/duoapi/raw/master/v.txt        &&&https://api.likepoems.com/img/mc"},
