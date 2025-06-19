@@ -23,15 +23,9 @@ CCTV14,http://39.135.15.93:6610/PLTV/88888888/224/3221225727/1/index.m3u8?fmt=ts
 CCTV15,http://39.135.15.93:6610/PLTV/88888888/224/3221225749/1/index.m3u8?fmt=ts2hls
 CCTV17,http://39.135.15.93:6610/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls
 
-//CHC高清电影,
-
-
-
-//CHC动作电影,	
-
-
-
-//CHC家庭影院,
+动作电影咪咕,http://ss.baihuan.online:35455/mgtv/644368714.m3u8
+家庭影院咪咕,http://ss.baihuan.online:35455/mgtv/644368373.m3u8
+影迷电影咪咕,http://ss.baihuan.online:35455/mgtv/952383261.m3u8
 
 安徽卫视HD,http://39.135.15.93:6610/PLTV/88888888/224/3221225716/1/index.m3u8?fmt=ts2hls
 安徽卫视HD,http://39.135.15.93:6610/PLTV/88888888/224/3221226072/1/index.m3u8?fmt=ts2hls
