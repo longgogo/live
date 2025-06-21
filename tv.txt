@@ -2531,6 +2531,13 @@ Girls Gone Wild,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjd2w4gUou--ljQE.
 
 📻丨电台之声,#genre#
 500首华语经典,http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
+潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
+音乐之声,http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
+音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+广东城市之声,https://satellitepull.cnr.cn/live/wxgdcszs/playlist.m3u8
+广东音乐之声,https://satellitepull.cnr.cn/live/wxgdyyzs/playlist.m3u8
+广东南粤之声,https://satellitepull.cnr.cn/live/wxnyzs/playlist.m3u8
+深圳私家车,https://satellitepull.cnr.cn/live/wxszsjcgb/playlist.m3u8
 CRI 环球资讯广播 FM90.5,http://sk.cri.cn/905.m3u8
 CRI 中文环球广播,http://sk.cri.cn/hyhq.m3u8
 CRI 南海之声,http://sk.cri.cn/nhzs.m3u8
