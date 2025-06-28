@@ -39,7 +39,7 @@ CCTV17,http://39.135.15.93:6610/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts
 欢乐剧场,http://39.135.135.28/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 潮妈辣妹,http://39.134.65.70/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
 中国功夫,http://39.134.65.62/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+
 
 安徽卫视HD,http://39.135.15.93:6610/PLTV/88888888/224/3221225716/1/index.m3u8?fmt=ts2hls
 安徽卫视HD,http://39.135.15.93:6610/PLTV/88888888/224/3221226072/1/index.m3u8?fmt=ts2hls
