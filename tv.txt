@@ -27,7 +27,6 @@ CCTV14,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225727/1/index.m3u
 CCTV15,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225749/1/index.m3u8?fmt=ts2hls
 CCTV16,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226356/1/index.m3u8?fmt=ts2hls
 CCTV17,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls
-CETV早期教育,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225679/1/index.m3u8?fmt=ts2hls
 湖南卫视4K,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226354/1/index.m3u8?fmt=ts2hls
 湖南卫视4K,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225707/1/index.m3u8?fmt=ts2hls
 湖南卫视4K,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225778/1/index.m3u8?fmt=ts2hls 
