@@ -45,8 +45,8 @@ CCTV老故事,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225677/1/in
 北京纪实HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225768/1/index.m3u8?fmt=ts2hls
 浙江卫视4K,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226331/1/index.m3u8?fmt=ts2hls
 广东卫视4K,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226362/1/index.m3u8?fmt=ts2hls
-广东卫视HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225720/1/index.m3u8?fmt=ts2hls
-广东卫视HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226041/1/index.m3u8?fmt=ts2hls
+广东卫视4K,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225720/1/index.m3u8?fmt=ts2hls
+广东卫视4K,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226041/1/index.m3u8?fmt=ts2hls
 深圳卫视4K,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226365/1/index.m3u8?fmt=ts2hls
 东方卫视4K,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226374/1/index.m3u8?fmt=ts2hls
 东方卫视4K,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225752/1/index.m3u8?fmt=ts2hls
