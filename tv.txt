@@ -23,6 +23,8 @@ CCTV5HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226043/1/index.m3
 CCTV5+,http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078001_dlna.m3u8
 CCTV5+,http://120.76.248.139/live/bfgd/4200000246.m3u8
 CCTV5+,http://222.186.27.222/hlslive-tx-1-cdn.ysp.cctv.cn/ysp/2024078003.m3u8
+CCTV5+,http://120.76.248.139/live/bfgd/4200000246.m3u8
+CCTV5+,http://192.151.150.154/live/cctv5p.m3u8
 CCTV6HD,http://39.135.15.93:6610/PLTV/88888888/224/3221226011/1/index.m3u8?fmt=ts2hls
 CCTV6HD,http://39.135.15.93:6610/PLTV/88888888/224/3221226046/1/index.m3u8?fmt=ts2hls
 CCTV6HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226011/1/index.m3u8?fmt=ts2hls
@@ -50,7 +52,7 @@ CCTV15HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225749/1/index.m
 CCTV风云音乐,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225698/1/index.m3u8?fmt=ts2hls
 CCTV16,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226356/1/index.m3u8?fmt=ts2hls
 CCTV17HD,http://39.135.15.93:6610/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls
-CCTV17,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls
+CCTV17HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls
 CCTV第一剧场,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225702/1/index.m3u8?fmt=ts2hls
 CCTV怀旧剧场,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls
 CCTV老故事,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225677/1/index.m3u8?fmt=ts2hls
@@ -75,7 +77,6 @@ CCTV4K,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226348/1/index.m3u
 北京纪实HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226075/1/index.m3u8?fmt=ts2hls
 北京纪实HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225768/1/index.m3u8?fmt=ts2hls
 浙江卫视4K,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226331/1/index.m3u8?fmt=ts2hls
-上海纪实HD,http://39.135.15.93:6610/PLTV/88888888/224/3221225767/1/index.m3u8?fmt=ts2hls
 浙江卫视4K,http://39.135.15.93:6610/PLTV/88888888/224/3221225750/1/index.m3u8?fmt=ts2hls
 浙江卫视4K,http://39.135.15.93:6610/PLTV/88888888/224/3221225780/1/index.m3u8?fmt=ts2hls
 浙江卫视4K,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225750/1/index.m3u8?fmt=ts2hls
@@ -172,13 +173,10 @@ CCTV4K,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226348/1/index.m3u
 农林卫视,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225696/1/index.m3u8?fmt=ts2hls
 青海卫视,http://39.135.15.93:6610/PLTV/88888888/224/3221225760/1/index.m3u8?fmt=ts2hls
 青海卫视,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225760/1/index.m3u8?fmt=ts2hls
-康巴卫视,http://39.135.15.93:6610/PLTV/88888888/224/3221225695/1/index.m3u8?fmt=ts2hls
 三沙卫视,http://39.135.15.93:6610/PLTV/88888888/224/3221225693/1/index.m3u8?fmt=ts2hls
 三沙卫视,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225693/1/index.m3u8?fmt=ts2hls
-安多卫视,http://39.135.15.93:6610/PLTV/88888888/224/3221225694/1/index.m3u8?fmt=ts2hls
 山东教育卫视,http://39.135.15.93:6610/PLTV/88888888/224/3221225764/1/index.m3u8?fmt=ts2hls
 山东教育卫视,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225764/1/index.m3u8?fmt=ts2hls
-广东南方卫视,http://39.135.15.93:6610/PLTV/88888888/224/3221225738/1/index.m3u8?fmt=ts2hls
 山西卫视,http://39.135.15.93:6610/PLTV/88888888/224/3221225730/1/index.m3u8?fmt=ts2hls
 山西卫视,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225730/1/index.m3u8?fmt=ts2hls
 厦门卫视,http://39.135.15.93:6610/PLTV/88888888/224/3221225761/1/index.m3u8?fmt=ts2hls
@@ -205,7 +203,6 @@ CCTV4K,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226348/1/index.m3u
 金鹰卡通,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225731/1/index.m3u8?fmt=ts2hls
 北京卡酷,http://39.135.15.93:6610/PLTV/88888888/224/3221225732/1/index.m3u8?fmt=ts2hls
 北京卡酷,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225732/1/index.m3u8?fmt=ts2hls
-哈哈炫动,http://39.135.15.93:6610/PLTV/88888888/224/3221225689/1/index.m3u8?fmt=ts2hls
 国学频道,http://39.135.15.93:6610/PLTV/88888888/224/3221225692/1/index.m3u8?fmt=ts2hls
 国学频道,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225692/1/index.m3u8?fmt=ts2hls
 靓妆频道,http://39.135.15.93:6610/PLTV/88888888/224/3221225680/1/index.m3u8?fmt=ts2hls
@@ -224,17 +221,13 @@ CCTV4K,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226348/1/index.m3u
 贵州5,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225662/1/index.m3u8?fmt=ts2hls
 贵州6,http://39.135.15.93:6610/PLTV/88888888/224/3221225672/1/index.m3u8?fmt=ts2hls
 贵州6,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225672/1/index.m3u8?fmt=ts2hls
-贵州7,http://39.135.15.93:6610/PLTV/88888888/224/3221225741/1/index.m3u8?fmt=ts2hls
 贵州7,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225741/1/index.m3u8?fmt=ts2hls
 贵州移动电视,http://39.135.15.93:6610/PLTV/88888888/224/3221225774/1/index.m3u8?fmt=ts2hls
 贵州移动电视,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225774/1/index.m3u8?fmt=ts2hls
 贵阳1HD,http://39.135.15.93:6610/PLTV/88888888/224/3221226037/1/index.m3u8?fmt=ts2hls
-贵阳1,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226037/1/index.m3u8?fmt=ts2hls
+贵阳1HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226037/1/index.m3u8?fmt=ts2hls
 贵阳1HD,http://39.135.15.93:6610/PLTV/88888888/224/3221225743/1/index.m3u8?fmt=ts2hls
-贵阳1,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225743/1/index.m3u8?fmt=ts2hls
-贵阳2,http://39.135.15.93:6610/PLTV/88888888/224/3221225684/1/index.m3u8?fmt=ts2hls
-贵阳4,http://39.135.15.93:6610/PLTV/88888888/224/3221225705/1/index.m3u8?fmt=ts2hls
-贵安电视台,http://39.135.15.93:6610/PLTV/88888888/224/3221225683/1/index.m3u8?fmt=ts2hls
+贵阳1HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225743/1/index.m3u8?fmt=ts2hls
 遵义综合,http://39.135.15.93:6610/PLTV/88888888/224/3221226026/1/index.m3u8?fmt=ts2hls
 CCTV兵器科技,http://39.135.15.93:6610/PLTV/88888888/224/3221225676/1/index.m3u8?fmt=ts2hls
 CCTV兵器科技,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225676/1/index.m3u8?fmt=ts2hls
@@ -258,7 +251,6 @@ CCTV中学生,http://39.135.15.93:6610/PLTV/88888888/224/3221225663/1/index.m3u8
 CCTV中学生,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225663/1/index.m3u8?fmt=ts2hls
 CCTV央视文化精品,http://39.135.15.93:6610/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls
 CGTN,http://39.135.15.93:6610/PLTV/88888888/224/3221225664/1/index.m3u8?fmt=ts2hls
-CGTN记录,http://39.135.15.93:6610/PLTV/88888888/224/3221225670/1/index.m3u8?fmt=ts2hls
 CETV-1HD,http://39.135.15.93:6610/PLTV/88888888/224/3221225723/1/index.m3u8?fmt=ts2hls
 遵义综合,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226026/1/index.m3u8?fmt=ts2hls
 安顺新闻,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226054/1/index.m3u8?fmt=ts2hls
@@ -273,7 +265,7 @@ BestV HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225775/1/index.m
 CCTV央视文化精品,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls
 CGTN,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225664/1/index.m3u8?fmt=ts2hls
 CETV-1HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225723/1/index.m3u8?fmt=ts2hls
-西藏藏语,http://39.135.15.93:6610/PLTV/88888888/224/3221225697/1/index.m3u8?fmt=ts2hls
+
 
 歌星金曲,#genre#
 冷漠-时光海灣,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_9867444&response=res&format=mp4&type=convert_url
